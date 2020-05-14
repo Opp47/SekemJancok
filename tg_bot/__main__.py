@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by(@Born2Fight).
 
-My Support Group @RTIDBotDev.
+My Support Group @FlyingHighOfficial
 
 I'm still on BETA Tester, someday I will have more fiture for moderate your group
 You need create clone same like me, DM my Boss 👉👉👉👉 @Born2Fight
